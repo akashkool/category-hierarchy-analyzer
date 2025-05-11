@@ -73,14 +73,6 @@ Level 2 Category IDs: 101, 102, 201
 Level 3 Category IDs: 103, 109, 202
 ```
 
-## 🕰️ Time Taken
-
-**1 hour 15 minutes**  
-Including:
-- Understanding requirements
-- Designing clean, extensible code
-- Writing and testing the solution
-
 ## 📌 Notes
 
 - Modular, reusable code (CategoryService)
