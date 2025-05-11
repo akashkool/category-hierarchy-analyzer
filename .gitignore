@@ -1,0 +1,67 @@
+## Ignore build output
+bin/
+obj/
+out/
+
+## Ignore user-specific files (Visual Studio, Rider, VS Code)
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Ignore build configuration
+*.DotSettings.user
+
+## Ignore .NET artifacts
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Ignore ASP.NET generated files
+wwwroot/lib/
+wwwroot/node_modules/
+
+## Ignore logs, secrets
+*.log
+*.tlog
+*.vspscc
+*.vssscc
+*.dbmdl
+*.pdb
+
+## Ignore .NET secrets and local settings
+appsettings.Development.json
+secrets.json
+
+## Ignore NuGet packages and restore results
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+*.nuget.props
+*.nuget.targets
+
+## Ignore publish outputs
+publish/
+*.publish.xml
+
+## Ignore test results
+TestResults/
+*.coverage
+*.coveragejson
+
+## Ignore ReSharper, Rider files
+_ReSharper*/
+*.DotSettings
+
+## Ignore docker files (optional — if containerizing)
+docker-compose.override.yml
+
+## Ignore temporary files (OS)
+*.DS_Store
+Thumbs.db
+
+## Ignore global.json user files (optional)
+global.json.user
